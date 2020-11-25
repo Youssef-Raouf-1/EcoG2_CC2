@@ -1,0 +1,19 @@
+---
+title: "dada import"
+output: html_notebook
+---
+
+```{r}
+install.packages("rmarkdown")
+```
+
+
+```{r}
+install.packages("knitr")
+```
+
+```{bash}
+wget https://pagesperso.univ-brest.fr/~maignien/teaching/M1-MFA/UE-Ecogenomique2/EcoG2_data_cc2.tar.gz
+tar xvzf EcoG2_data_cc2.tar.gz
+```
+
